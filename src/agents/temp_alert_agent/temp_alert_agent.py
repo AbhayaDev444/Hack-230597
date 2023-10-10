@@ -51,8 +51,7 @@ async def message_handler(ctx: Context, sender: str, msg: Message):
     # return lat, long
 
 
-if __name__ == "__main__":
-    temp_alert_agent.run()
+
 
 
 
