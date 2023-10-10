@@ -33,8 +33,6 @@ async def message_handler(ctx: Context, sender: str, msg: Message):
 
 print(user.address)
 
-if __name__ == "__main__":
-    user.run()
 
 
 
