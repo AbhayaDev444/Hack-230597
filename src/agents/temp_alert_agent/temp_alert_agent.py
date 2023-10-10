@@ -1,6 +1,7 @@
 from uagents import Agent, Context, Model
 from uagents.setup import fund_agent_if_low
 
+src.agents.temp_alert_agent import Message
 
 class Message(Model):
     message: str
